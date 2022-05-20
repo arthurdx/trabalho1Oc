@@ -7,7 +7,7 @@
 
 
 from dictionary import instruct_r, instruct_j, instruct_i, reg
-from funcoes import format_inst_r, format_inst_i, text_to_binary
+from format import format_inst_r, format_inst_i, text_to_binary
 
 
 #lendo o arquivo texto e salvando suas linhas em uma lista de strings
